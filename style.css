@@ -62,7 +62,7 @@ p {
 .landing-page {
     width: 100%;
     height: calc(100vh - 53px);
-    /*background-image: url("crab.png"); */
+    background-image: url("crab.png");
     background-size: cover;
     background-position: center;
 }
